@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WAServices", "WAServices\WAServices.csproj", "{6270BA7B-3EFE-4839-A6C8-961CF0680F6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WAModel", "WAModel\WAModel.csproj", "{13D243B4-8B16-42D9-BDD8-BEB9A39809CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WADataAccess", "WADataAccess\WADataAccess.csproj", "{DC2169FE-53AC-4ECD-B1C1-6E06082C66EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6270BA7B-3EFE-4839-A6C8-961CF0680F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6270BA7B-3EFE-4839-A6C8-961CF0680F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6270BA7B-3EFE-4839-A6C8-961CF0680F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6270BA7B-3EFE-4839-A6C8-961CF0680F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D243B4-8B16-42D9-BDD8-BEB9A39809CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D243B4-8B16-42D9-BDD8-BEB9A39809CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D243B4-8B16-42D9-BDD8-BEB9A39809CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D243B4-8B16-42D9-BDD8-BEB9A39809CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2169FE-53AC-4ECD-B1C1-6E06082C66EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2169FE-53AC-4ECD-B1C1-6E06082C66EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2169FE-53AC-4ECD-B1C1-6E06082C66EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2169FE-53AC-4ECD-B1C1-6E06082C66EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BA0691-FBBA-420D-A2D7-7C6ADB882B4D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://stk-psg02:8080/tfs/functionalpatterns
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WAServices\\WAServices.csproj
+		SccProjectName1 = WAServices
+		SccLocalPath1 = WAServices
+		SccProjectUniqueName2 = WAModel\\WAModel.csproj
+		SccProjectName2 = WAModel
+		SccLocalPath2 = WAModel
+		SccProjectUniqueName3 = WADataAccess\\WADataAccess.csproj
+		SccProjectName3 = WADataAccess
+		SccLocalPath3 = WADataAccess
+	EndGlobalSection
+EndGlobal

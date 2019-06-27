@@ -1,0 +1,12 @@
+C:\tmp\powerscripts\CodigoBase\WADataAccess\bin\Release\netcoreapp2.1\WADataAccess.deps.json
+C:\tmp\powerscripts\CodigoBase\WADataAccess\bin\Release\netcoreapp2.1\WADataAccess.dll
+C:\tmp\powerscripts\CodigoBase\WADataAccess\bin\Release\netcoreapp2.1\WADataAccess.pdb
+C:\tmp\powerscripts\CodigoBase\WADataAccess\bin\Release\netcoreapp2.1\WAModel.dll
+C:\tmp\powerscripts\CodigoBase\WADataAccess\bin\Release\netcoreapp2.1\WAModel.pdb
+C:\tmp\powerscripts\CodigoBase\WADataAccess\obj\Release\netcoreapp2.1\WADataAccess.csprojAssemblyReference.cache
+C:\tmp\powerscripts\CodigoBase\WADataAccess\obj\Release\netcoreapp2.1\WADataAccess.csproj.CoreCompileInputs.cache
+C:\tmp\powerscripts\CodigoBase\WADataAccess\obj\Release\netcoreapp2.1\WADataAccess.AssemblyInfoInputs.cache
+C:\tmp\powerscripts\CodigoBase\WADataAccess\obj\Release\netcoreapp2.1\WADataAccess.AssemblyInfo.cs
+C:\tmp\powerscripts\CodigoBase\WADataAccess\obj\Release\netcoreapp2.1\WADataAccess.csproj.CopyComplete
+C:\tmp\powerscripts\CodigoBase\WADataAccess\obj\Release\netcoreapp2.1\WADataAccess.dll
+C:\tmp\powerscripts\CodigoBase\WADataAccess\obj\Release\netcoreapp2.1\WADataAccess.pdb

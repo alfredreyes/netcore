@@ -1,0 +1,9 @@
+C:\tmp\powerscripts\CodigoBase\WAModel\bin\Release\netcoreapp2.1\WAModel.deps.json
+C:\tmp\powerscripts\CodigoBase\WAModel\bin\Release\netcoreapp2.1\WAModel.dll
+C:\tmp\powerscripts\CodigoBase\WAModel\bin\Release\netcoreapp2.1\WAModel.pdb
+C:\tmp\powerscripts\CodigoBase\WAModel\obj\Release\netcoreapp2.1\WAModel.csprojAssemblyReference.cache
+C:\tmp\powerscripts\CodigoBase\WAModel\obj\Release\netcoreapp2.1\WAModel.csproj.CoreCompileInputs.cache
+C:\tmp\powerscripts\CodigoBase\WAModel\obj\Release\netcoreapp2.1\WAModel.AssemblyInfoInputs.cache
+C:\tmp\powerscripts\CodigoBase\WAModel\obj\Release\netcoreapp2.1\WAModel.AssemblyInfo.cs
+C:\tmp\powerscripts\CodigoBase\WAModel\obj\Release\netcoreapp2.1\WAModel.dll
+C:\tmp\powerscripts\CodigoBase\WAModel\obj\Release\netcoreapp2.1\WAModel.pdb
