@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WAModel\\WAModel.csproj",
+      "projectUniqueName": "C:\\NetCoreAng\\API_Base\\WAModel\\WAModel.csproj",
       "projectName": "WAModel",
-      "projectPath": "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WAModel\\WAModel.csproj",
+      "projectPath": "C:\\NetCoreAng\\API_Base\\WAModel\\WAModel.csproj",
       "packagesPath": "C:\\Users\\sqllocal\\.nuget\\packages\\",
-      "outputPath": "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WAModel\\obj\\",
+      "outputPath": "C:\\NetCoreAng\\API_Base\\WAModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

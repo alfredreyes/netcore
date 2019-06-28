@@ -78,10 +78,22 @@ namespace WAServices.Controllers
             var access_token = new JwtSecurityToken(_config["Jwt:Issuer"],
              _config["Jwt:Issuer"],
              claims,
-             expires: DateTime.Now.AddMinutes(120),
+             //expires: DateTime.Now.AddMinutes(120),
+             expires: DateTime.Now.AddMinutes(GetExpirationMinutes()),
              signingCredentials: credentials);
 
             return new JwtSecurityTokenHandler().WriteToken(access_token);
+        }
+
+        private double GetExpirationMinutes()
+        {
+            double res = 60;
+
+            var time = _config["Jwt:ExpirationMinutes"];
+            if (!String.IsNullOrEmpty(time))
+                res = Double.Parse(time);
+
+            return res;
         }
 
         private User AuthenticateUser(User login)

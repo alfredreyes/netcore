@@ -12773,11 +12773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WAServices\\WAServices.csproj",
+      "projectUniqueName": "C:\\NetCoreAng\\API_Base\\WAServices\\WAServices.csproj",
       "projectName": "WAServices",
-      "projectPath": "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WAServices\\WAServices.csproj",
+      "projectPath": "C:\\NetCoreAng\\API_Base\\WAServices\\WAServices.csproj",
       "packagesPath": "C:\\Users\\sqllocal\\.nuget\\packages\\",
-      "outputPath": "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WAServices\\obj\\",
+      "outputPath": "C:\\NetCoreAng\\API_Base\\WAServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12796,11 +12796,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WADataAccess\\WADataAccess.csproj": {
-              "projectPath": "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WADataAccess\\WADataAccess.csproj"
+            "C:\\NetCoreAng\\API_Base\\WADataAccess\\WADataAccess.csproj": {
+              "projectPath": "C:\\NetCoreAng\\API_Base\\WADataAccess\\WADataAccess.csproj"
             },
-            "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WAModel\\WAModel.csproj": {
-              "projectPath": "C:\\EntregasRaulFidu\\Fidu_24Mayo2019_3\\WAModel\\WAModel.csproj"
+            "C:\\NetCoreAng\\API_Base\\WAModel\\WAModel.csproj": {
+              "projectPath": "C:\\NetCoreAng\\API_Base\\WAModel\\WAModel.csproj"
             }
           }
         }

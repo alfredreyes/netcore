@@ -1,4 +1,6 @@
+﻿//Fecha Creación:6/28/2019 2:44:23 PM Template StartupClass, Author: Alfredo Reyes C., V1
 //modificada 11 Marzo
+//modificado 27 mayo
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -63,7 +65,7 @@ namespace WAServices
             var connectionString = Configuration["Data:ConnectionString"];
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddScoped<ValidationFilterAttribute>();
-            //Core No se mueve ---------------------------
+           //Core No se mueve ---------------------------
             services.AddSingleton<ILoginData, LoginData>(serviceProvider =>
             {
                 return new LoginData(connectionString);
@@ -100,134 +102,18 @@ namespace WAServices
             {
                 return new ProfileData(connectionString);
             });
-            //Fidu -----------------------------------------------
-            services.AddSingleton<IComiteTecnicoData, ComiteTecnicoData>(serviceProvider =>
-            {
-                return new ComiteTecnicoData(connectionString);
-            });
-            services.AddSingleton<IContratoInversionData, ContratoInversionData>(serviceProvider =>
-            {
-                return new ContratoInversionData(connectionString);
-            });
-            services.AddSingleton<ICuentaChequesData, CuentaChequesData>(serviceProvider =>
-            {
-                return new CuentaChequesData(connectionString);
-            });
-            services.AddSingleton<IFideicomisarioData, FideicomisarioData>(serviceProvider =>
-            {
-                return new FideicomisarioData(connectionString);
-            });
-            services.AddSingleton<IFideicomisoData, FideicomisoData>(serviceProvider =>
-            {
-                return new FideicomisoData(connectionString);
-            });
-            services.AddSingleton<IFideicomitenteData, FideicomitenteData>(serviceProvider =>
-            {
-                return new FideicomitenteData(connectionString);
-            });
-            services.AddSingleton<IKycData, KycData>(serviceProvider =>
-            {
-                return new KycData(connectionString);
-            });
-            services.AddSingleton<IParametrosComisionesData, ParametrosComisionesData>(serviceProvider =>
-            {
-                return new ParametrosComisionesData(connectionString);
-            });
-            services.AddSingleton<ISubfisoData, SubfisoData>(serviceProvider =>
-            {
-                return new SubfisoData(connectionString);
-            });
-            services.AddSingleton<ITerceroData, TerceroData>(serviceProvider =>
-            {
-                return new TerceroData(connectionString);
-            });
-            //AdminContenido
-            //services.AddSingleton<ICertificacionData, CertificacionData>(serviceProvider =>
-            //{
-            //    return new CertificacionData(connectionString);
-            //});
-            //services.AddSingleton<IEventoData, EventoData>(serviceProvider =>
-            //{
-            //    return new EventoData(connectionString);
-            //});
-            //services.AddSingleton<IEstudianteData, EstudianteData>(serviceProvider =>
-            //{
-            //    return new EstudianteData(connectionString);
-            //});
-            //services.AddSingleton<IExamenData, ExamenData>(serviceProvider =>
-            //{
-            //    return new ExamenData(connectionString);
-            //});
-            //services.AddSingleton<IGrupoAData, GrupoAData>(serviceProvider =>
-            //{
-            //    return new GrupoAData(connectionString);
-            //});
-            //services.AddSingleton<IInstitucionData, InstitucionData>(serviceProvider =>
-            //{
-            //    return new InstitucionData(connectionString);
-            //});
-            //services.AddSingleton<IOpcionData, OpcionData>(serviceProvider =>
-            //{
-            //    return new OpcionData(connectionString);
-            //});
-            //services.AddSingleton<IPreguntaData, PreguntaData>(serviceProvider =>
-            //{
-            //    return new PreguntaData(connectionString);
-            //});
-
-            //services.AddSingleton<IProfesorData, ProfesorData>(serviceProvider =>
-            //{
-            //    return new ProfesorData(connectionString);
-            //});
-            //services.AddSingleton<IProgramaData, ProgramaData>(serviceProvider =>
-            //{
-            //    return new ProgramaData(connectionString);
-            //});
-            //services.AddSingleton<IPublicacionData, PublicacionData>(serviceProvider =>
-            //{
-            //    return new PublicacionData(connectionString);
-            //});
-            //services.AddSingleton<IRecursoData, RecursoData>(serviceProvider =>
-            //{
-            //    return new RecursoData(connectionString);
-            //});
-            //services.AddSingleton<IRegistroData, RegistroData>(serviceProvider =>
-            //{
-            //    return new RegistroData(connectionString);
-            //});
-            //services.AddSingleton<IUnidadData, UnidadData>(serviceProvider =>
-            //{
-            //    return new UnidadData(connectionString);
-            //});
-            //--------------------------------------------------------
-            //services.AddSingleton<ISubProcesoData, SubProcesoData>(serviceProvider =>
-            //{              
-            //    return new SubProcesoData(connectionString);
-            //});
-
-            //services.AddSingleton<IPaisData, PaisData>(serviceProvider =>
-            //{
-            //    return new PaisData(connectionString);
-            //});
-
-            //services.AddSingleton<IContinenteData, ContinenteData>(serviceProvider =>
-            //{
-            //    return new ContinenteData(connectionString);
-            //});
-
-            //services.AddSingleton<IProcesoData, ProcesoData>(serviceProvider =>
-            //{
-            //    return new ProcesoData(connectionString);
-            //});
-
-            //services.AddSingleton<IDireccionData, DireccionData>(serviceProvider =>
-            //{
-            //    return new DireccionData(connectionString);
-            //});
-
-
-
-
+            //aqui empieza lo funcional de la app ************************************************************************************************
+            //************************************************************************************************************************************
+                    services.AddSingleton<IContinenteData, ContinenteData>(serviceProvider =>
+                    {
+                        return new ContinenteData(connectionString);
+                    });
+                    services.AddSingleton<IPaisData, PaisData>(serviceProvider =>
+                    {
+                        return new PaisData(connectionString);
+                    });
+            //termina funcional                   ************************************************************************************************
+            //************************************************************************************************************************************
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
             {
@@ -252,7 +138,6 @@ namespace WAServices
                 var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
                 c.IncludeXmlComments(xmlPath);
-               
             });
 
            
