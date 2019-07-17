@@ -1,0 +1,33 @@
+C:\NetCoreAng\API\WAModel\bin\Debug\netcoreapp2.1\WAModel.deps.json
+C:\NetCoreAng\API\WAModel\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API\WAModel\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API\WAModel\obj\Debug\netcoreapp2.1\WAModel.csproj.CoreCompileInputs.cache
+C:\NetCoreAng\API\WAModel\obj\Debug\netcoreapp2.1\WAModel.AssemblyInfoInputs.cache
+C:\NetCoreAng\API\WAModel\obj\Debug\netcoreapp2.1\WAModel.AssemblyInfo.cs
+C:\NetCoreAng\API\WAModel\obj\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API\WAModel\obj\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API - Copy\WAModel\bin\Debug\netcoreapp2.1\WAModel.deps.json
+C:\NetCoreAng\API - Copy\WAModel\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API - Copy\WAModel\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API - Copy\WAModel\obj\Debug\netcoreapp2.1\WAModel.csproj.CoreCompileInputs.cache
+C:\NetCoreAng\API - Copy\WAModel\obj\Debug\netcoreapp2.1\WAModel.AssemblyInfoInputs.cache
+C:\NetCoreAng\API - Copy\WAModel\obj\Debug\netcoreapp2.1\WAModel.AssemblyInfo.cs
+C:\NetCoreAng\API - Copy\WAModel\obj\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API - Copy\WAModel\obj\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API_Base\WAModel\bin\Debug\netcoreapp2.1\WAModel.deps.json
+C:\NetCoreAng\API_Base\WAModel\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API_Base\WAModel\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API_Base\WAModel\obj\Debug\netcoreapp2.1\WAModel.csproj.CoreCompileInputs.cache
+C:\NetCoreAng\API_Base\WAModel\obj\Debug\netcoreapp2.1\WAModel.AssemblyInfoInputs.cache
+C:\NetCoreAng\API_Base\WAModel\obj\Debug\netcoreapp2.1\WAModel.AssemblyInfo.cs
+C:\NetCoreAng\API_Base\WAModel\obj\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API_Base\WAModel\obj\Debug\netcoreapp2.1\WAModel.pdb
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WAModel\bin\Debug\netcoreapp2.1\WAModel.deps.json
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WAModel\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WAModel\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WAModel\obj\Debug\netcoreapp2.1\WAModel.csprojAssemblyReference.cache
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WAModel\obj\Debug\netcoreapp2.1\WAModel.csproj.CoreCompileInputs.cache
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WAModel\obj\Debug\netcoreapp2.1\WAModel.AssemblyInfoInputs.cache
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WAModel\obj\Debug\netcoreapp2.1\WAModel.AssemblyInfo.cs
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WAModel\obj\Debug\netcoreapp2.1\WAModel.dll
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WAModel\obj\Debug\netcoreapp2.1\WAModel.pdb
