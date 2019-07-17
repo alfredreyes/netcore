@@ -1,0 +1,66 @@
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WAServices.deps.json
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WAServices.runtimeconfig.json
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WAServices.runtimeconfig.dev.json
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WAServices.dll
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WAServices.pdb
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WAServices.xml
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WADataAccess.dll
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\NetCoreAng\API\WAServices\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.csprojAssemblyReference.cache
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.csproj.CoreCompileInputs.cache
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.RazorAssemblyInfo.cache
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.RazorAssemblyInfo.cs
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.AssemblyInfoInputs.cache
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.AssemblyInfo.cs
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.RazorTargetAssemblyInfo.cache
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.csproj.CopyComplete
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.dll
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.xml
+C:\NetCoreAng\API\WAServices\obj\Debug\netcoreapp2.1\WAServices.pdb
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.csprojAssemblyReference.cache
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.csproj.CoreCompileInputs.cache
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.RazorAssemblyInfo.cache
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.RazorAssemblyInfo.cs
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.AssemblyInfoInputs.cache
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.AssemblyInfo.cs
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.dll
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.xml
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.pdb
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WAServices.deps.json
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WAServices.runtimeconfig.json
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WAServices.runtimeconfig.dev.json
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WAServices.dll
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WAServices.pdb
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WAServices.xml
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WADataAccess.dll
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\NetCoreAng\API - Copy\WAServices\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.RazorTargetAssemblyInfo.cache
+C:\NetCoreAng\API - Copy\WAServices\obj\Debug\netcoreapp2.1\WAServices.csproj.CopyComplete
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WAServices.deps.json
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WAServices.runtimeconfig.json
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WAServices.runtimeconfig.dev.json
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WAServices.dll
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WAServices.pdb
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WAServices.xml
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WADataAccess.dll
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\NetCoreAng\API_Base\WAServices\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.csprojAssemblyReference.cache
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.csproj.CoreCompileInputs.cache
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.RazorAssemblyInfo.cache
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.RazorAssemblyInfo.cs
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.AssemblyInfoInputs.cache
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.AssemblyInfo.cs
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.RazorTargetAssemblyInfo.cache
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.csproj.CopyComplete
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.dll
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.xml
+C:\NetCoreAng\API_Base\WAServices\obj\Debug\netcoreapp2.1\WAServices.pdb
