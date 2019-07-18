@@ -1,0 +1,48 @@
+C:\NetCoreAng\API\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.deps.json
+C:\NetCoreAng\API\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.dll
+C:\NetCoreAng\API\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\NetCoreAng\API\WADataAccess\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API\WADataAccess\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csprojAssemblyReference.cache
+C:\NetCoreAng\API\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csproj.CoreCompileInputs.cache
+C:\NetCoreAng\API\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.AssemblyInfoInputs.cache
+C:\NetCoreAng\API\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.AssemblyInfo.cs
+C:\NetCoreAng\API\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csproj.CopyComplete
+C:\NetCoreAng\API\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.dll
+C:\NetCoreAng\API\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\NetCoreAng\API - Copy\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.deps.json
+C:\NetCoreAng\API - Copy\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.dll
+C:\NetCoreAng\API - Copy\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\NetCoreAng\API - Copy\WADataAccess\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API - Copy\WADataAccess\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API - Copy\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csprojAssemblyReference.cache
+C:\NetCoreAng\API - Copy\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csproj.CoreCompileInputs.cache
+C:\NetCoreAng\API - Copy\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.AssemblyInfoInputs.cache
+C:\NetCoreAng\API - Copy\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.AssemblyInfo.cs
+C:\NetCoreAng\API - Copy\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csproj.CopyComplete
+C:\NetCoreAng\API - Copy\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.dll
+C:\NetCoreAng\API - Copy\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\NetCoreAng\API_Base\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.deps.json
+C:\NetCoreAng\API_Base\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.dll
+C:\NetCoreAng\API_Base\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\NetCoreAng\API_Base\WADataAccess\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\NetCoreAng\API_Base\WADataAccess\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\NetCoreAng\API_Base\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csprojAssemblyReference.cache
+C:\NetCoreAng\API_Base\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csproj.CoreCompileInputs.cache
+C:\NetCoreAng\API_Base\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.AssemblyInfoInputs.cache
+C:\NetCoreAng\API_Base\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.AssemblyInfo.cs
+C:\NetCoreAng\API_Base\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csproj.CopyComplete
+C:\NetCoreAng\API_Base\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.dll
+C:\NetCoreAng\API_Base\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.deps.json
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.dll
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\bin\Debug\netcoreapp2.1\WADataAccess.pdb
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\bin\Debug\netcoreapp2.1\WAModel.dll
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\bin\Debug\netcoreapp2.1\WAModel.pdb
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csprojAssemblyReference.cache
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csproj.CoreCompileInputs.cache
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.AssemblyInfoInputs.cache
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.AssemblyInfo.cs
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.csproj.CopyComplete
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.dll
+C:\tmp\powerscripts\AppGenerated\CodigoBase\WADataAccess\obj\Debug\netcoreapp2.1\WADataAccess.pdb
