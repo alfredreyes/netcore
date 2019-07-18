@@ -1,4 +1,4 @@
-﻿//Fecha Creación:7/18/2019 10:39:25 AM Template StartupClass, Author: Alfredo Reyes C., V1
+﻿//Fecha Creación:7/18/2019 10:57:17 AM Template StartupClass, Author: Alfredo Reyes C., V1
 //modificada 11 Marzo
 //modificado 27 mayo
 using System;

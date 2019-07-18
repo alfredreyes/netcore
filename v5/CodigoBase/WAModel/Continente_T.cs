@@ -1,4 +1,4 @@
-﻿//Fecha Creación:7/18/2019 10:39:21 AM Template ModelClass, Author: Alfredo Reyes C., V1
+﻿//Fecha Creación:7/18/2019 10:57:11 AM Template ModelClass, Author: Alfredo Reyes C., V1
 using System;
 
 namespace WAModel
