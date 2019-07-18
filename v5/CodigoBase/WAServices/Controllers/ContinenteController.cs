@@ -1,4 +1,4 @@
-﻿//Fecha Creación:7/18/2019 11:13:46 AM Template ControllerClass, Author: Alfredo Reyes C., V1
+﻿//Fecha Creación:7/18/2019 11:20:14 AM Template ControllerClass, Author: Alfredo Reyes C., V1
 using System;
 using System.Collections.Generic;
 using System.Linq;

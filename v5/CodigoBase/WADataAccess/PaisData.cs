@@ -1,4 +1,4 @@
-﻿//Fecha Creación:7/18/2019 11:13:52 AM Template DataClass, Author: Alfredo Reyes C., V1
+﻿//Fecha Creación:7/18/2019 11:20:19 AM Template DataClass, Author: Alfredo Reyes C., V1
 using System;
 using System.Collections.Generic;
 using System.Data;
